@@ -141,7 +141,7 @@
     }
 }
 
-- (void)doubleTap   //双击开启、关闭单词高亮显示
+- (void)doubleTap    //双击开启、关闭单词高亮显示
 {
     NSLog(@"hahahha");
     if (isHighlight) {
